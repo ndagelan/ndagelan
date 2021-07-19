@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="400" width="400" alt="GIF" src="https://i.postimg.cc/Z5BbpzGt/unnamed-2-1.gif">
+  <img align="right" height="380" width="400" alt="GIF" src="https://i.postimg.cc/Z5BbpzGt/unnamed-2-1.gif">
 </a>
 
 - 🔭 **𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 is building** : **Tani Dex**
